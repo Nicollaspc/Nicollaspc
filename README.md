@@ -28,6 +28,3 @@ Software developer and student of Systems Analysis and Development (3rd semester
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicollaspc&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com?user=Nicollaspc&theme=transparent&border_radius=0&short_numbers=true&card_width=600) |
 |:-:|:-:|
-
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicollaspc&theme=transparent) |
-|:-:|
