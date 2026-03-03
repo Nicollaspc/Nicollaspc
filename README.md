@@ -21,7 +21,7 @@ Software developer and student of Systems Analysis and Development (3rd semester
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,mysql,github,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,mysql,github,nodejs,tailwind)](https://skillicons.dev)
 <br>
 
 ## 🚀 Growth as a Developer
