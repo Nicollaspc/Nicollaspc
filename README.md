@@ -14,7 +14,7 @@ Rio de Janeiro, Brazil
 ## 🌐 Open to Collaboration
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Nicollaspc)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nicollasnascimento)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nicollasnascimento.pc@gmail.com)
+
 
 Software developer and student of Systems Analysis and Development (3rd semester) at UNESA University. Focused on continuous improvement, problem-solving, and building efficient solutions through code. Passionate about technology, discipline, running, soccer, and transforming ideas into code.
 
