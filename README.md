@@ -1,13 +1,13 @@
 # <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe+UI&size=23&lines=Hello+👋,+I'm+Nicollas+Nascimento)](https://git.io/typing-svg)</p>
 
 <p align="center">
-<strong>Javascript Developer | Student of Systems Analysis and Development</strong><br>
+<strong>Java Developer | Student of Systems Analysis and Development</strong><br>
 Rio de Janeiro, Brazil
 </p>
 
 ---
 
-* 📚 I'm currently learning *JavaScript, Mysql*
+* 📚 I'm currently learning *Java, Mysql*
 
 * ✉️ How to reach me: *Nicollasnascimento.pc@gmail.com*
 
